@@ -1,16 +1,14 @@
-## Hi there 👋
+##Boas vindas ao meu perfil!
 
-<!--
-**RodrigoNascito/RodrigoNascito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Rodrigo Bittencourt
 
-Here are some ideas to get you started:
+-Estou estudando Alura
+-Estou me desenvolvendo na linguagem JavaScript
+-Utilzo esse espaço para minha organzação e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Você pode entrar em contato comigo**
+
+
+
+
+
